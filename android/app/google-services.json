@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322369858579",
+    "project_id": "kt6app",
+    "storage_bucket": "kt6app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322369858579:android:60a529485b5a14cb38e3e6",
+        "android_client_info": {
+          "package_name": "com.example.kt6app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8jROwHfaBH7n21aNueOXA8v5ImsCDjX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
